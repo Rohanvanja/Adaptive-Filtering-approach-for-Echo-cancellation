@@ -131,3 +131,8 @@ jupyter notebook
 
 ## 👨‍💻 Citation
 Patil, A. P., and M. R. Patil, “Performance Analysis of Adaptive Filtering Algorithms for Acoustic Echo Cancellation,” International Journal of Engineering Research & Technology (IJERT), vol. 7, no. 8, Aug. 2018.
+
+---
+
+# 🔗 research paper link
+https://www.ijert.org/performance-analysis-of-adaptive-filtering-algorithms-for-acoustic-echo-cancellation.
