@@ -127,12 +127,7 @@ jupyter notebook
 * Real-time echo cancellation system
 * Deep learning-based echo suppression
 
----
+--- 
 
-## 👨‍💻 Author
-
-Akshay Kumar Reddy
-
----
-
-## ⭐ If you found this useful, give it a star!
+## 👨‍💻 Citation
+Patil, A. P., and M. R. Patil, “Performance Analysis of Adaptive Filtering Algorithms for Acoustic Echo Cancellation,” International Journal of Engineering Research & Technology (IJERT), vol. 7, no. 8, Aug. 2018.
